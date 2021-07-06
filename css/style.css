@@ -36,11 +36,11 @@ body {
 .nav-menu li {
   display: block;
   padding: 0 50px;
-  color: #7d7d7d;
   text-transform: uppercase;
 }
 .nav-menu a {
   text-decoration: none;
+  color: #7d7d7d;
 }
 .button {
   padding: 20px 49px;
