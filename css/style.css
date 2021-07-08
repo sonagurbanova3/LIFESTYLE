@@ -47,6 +47,6 @@ body {
   padding: 20px 49px;
   background-color: #fff;
   border: 1px solid #626262;
-  margin-left: 375px;
-  margin-bottom: 47px;
+  margin: 0 auto;
+  width: 165px;
 }
